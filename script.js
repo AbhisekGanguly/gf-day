@@ -1,9 +1,6 @@
 const bouquetGifs = [
     "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N4N3hwZmY0emhlZWZ3dm1ocnhvazN6eXZla3NiYW5iNTRrNGwxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pBtoGtaFc6DnHEeacf/giphy.gif",
-    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3dtbnhmc3I5c25zMjl5bTFhdjIyMjl5cnRwc2RneGRhdTF5ZTlzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwFuqlC6UWm76/giphy.gif",
-    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHp1cGx2cWs1NHpvanZ1Y3o4dzVybjdhZHk1NGZ3eGU1bnJnOTVpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13K9nER4Q3NAME/giphy.gif",
-    "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29iMTdsY3hnbGM4b2xyd2MzcHZ4cDFpc3QyYzQ0bWt3ZXAyaWt6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMxTaco19Ief9tK/giphy.gif"
-];
+    ];
 
 function showFireworks() {
     // Display fireworks
